@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2012\Projects\AlifProject\AlifProject\bin\Debug\AlifProject.exe.config
+c:\users\user\documents\visual studio 2012\Projects\AlifProject\AlifProject\bin\Debug\AlifProject.exe
+c:\users\user\documents\visual studio 2012\Projects\AlifProject\AlifProject\bin\Debug\AlifProject.pdb
+c:\users\user\documents\visual studio 2012\Projects\AlifProject\AlifProject\obj\Debug\AlifProject.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\AlifProject\AlifProject\obj\Debug\AlifProject.exe
+c:\users\user\documents\visual studio 2012\Projects\AlifProject\AlifProject\obj\Debug\AlifProject.pdb
